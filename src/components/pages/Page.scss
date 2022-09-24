@@ -1,0 +1,33 @@
+.container {
+    .row {
+        .card {
+            table {
+                tbody {
+                    img {
+                        height: 35px;
+                        width: 35px;
+                        border-radius: 50%;
+                    }
+                    button {
+                        border: none;
+                        margin-left: 2px;
+                        color: red;
+                    }
+                    #show{
+                        background-color: pink;
+                        border-radius: 5px;
+                    }
+                    #edit{
+                        background-color: pink;
+                        border-radius: 5px;
+                        color: green;
+                    }
+                    #delete{
+                        background-color: pink;
+                        border-radius: 5px;
+                    }
+                }
+            }
+        }
+    }
+}
